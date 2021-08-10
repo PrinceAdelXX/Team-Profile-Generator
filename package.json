@@ -1,5 +1,5 @@
 {
-  "name": "Team Profile Generator",
+  "name": "Team-Profile-Generator",
   "version": "1.0.0",
   "description": "Profile maker for a professional team info",
   "main": "index.js",
@@ -26,6 +26,6 @@
   "bugs": {
     "url": "https://github.com/PrinceAdelXX/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/PrinceAdelXX/Team_Profile-Generator#readme"
+  "homepage": "https://github.com/PrinceAdelXX/Team-Profile-Generator#readme"
 }
 

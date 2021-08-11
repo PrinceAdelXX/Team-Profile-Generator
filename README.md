@@ -3,25 +3,26 @@
 ## Description:
 This app lets users to create a HTML page that has cards and information for each of their Team Members.
 
-## Installation:
+## Installation Process:
 Download/clone the github repo and install dependencies such as Node.js and inquirer from npm.
 
 ## App Usage:
 Use terminal to enter node commands and answer the all questions for every member that you wish to add.
 
 ## License Details:  
-MIT license 
+GNU license 
 
 ## List of Contributors:
 PrinceAdelXX
 
 ## Tests:
 
-There are four functionality tests, one for each team member.
--Employee class.
--Manager class.
--Engineer class.
--Intern class.
+The 4 Functionality tests entail
+
+ -  The Employee class.
+ -  The Manager class.
+ -  Engineer class.
+ -  Intern class.
 
 ## Link To Walkthrough Video
 

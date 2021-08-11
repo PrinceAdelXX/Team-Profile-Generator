@@ -32,5 +32,4 @@ There are four functionality tests, one for each team member.
 -Engineer class.
 -Intern class.
 
-
-<iframe src="https://drive.google.com/file/d/1Hhq8kPb12hyAbs8elff9E-0eAD8EILhN/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1Hhq8kPb12hyAbs8elff9E-0eAD8EILhN/view?usp=sharing

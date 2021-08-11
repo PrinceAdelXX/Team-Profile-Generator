@@ -1,4 +1,4 @@
-# Team Profile Generator
+# Team-Profile-Generator
   
 ## Table of Contents:  
 [1. Description](#Description)  
@@ -34,6 +34,7 @@ There are four functionality tests, one for each team member.
 
 ## Link To Walkthrough Video
 
+https://drive.google.com/file/d/1IxWTBEVt1l3gYK_2A2K7TTeJnTivYFr2/view?usp=sharing
 
 
 ## Link to Images

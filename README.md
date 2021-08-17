@@ -1,6 +1,6 @@
 
 
-https://user-images.githubusercontent.com/34521827/129725542-b4a50faa-611c-416c-8ee4-dab9e4a0e1cf.mp4
+
 
 # Team-Profile-Generator
 
@@ -30,7 +30,7 @@ The 4 Functionality tests entail
 
 ## Link To Walkthrough Video
 
-https://drive.google.com/file/d/1IxWTBEVt1l3gYK_2A2K7TTeJnTivYFr2/view?usp=sharing
+https://user-images.githubusercontent.com/34521827/129725542-b4a50faa-611c-416c-8ee4-dab9e4a0e1cf.mp4
 
 
 ## Link to Images

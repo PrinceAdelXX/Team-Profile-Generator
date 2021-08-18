@@ -35,7 +35,9 @@ https://user-images.githubusercontent.com/34521827/129725542-b4a50faa-611c-416c-
 
 ## Link to Images
 
-https://drive.google.com/file/d/13nzfo4268kAZ0ya0W24PXiIsj5S-DL3V/view?usp=sharing
+![InternalPro](https://user-images.githubusercontent.com/34521827/129816033-49e0d3f2-77c1-40fc-9b97-b8cad34e920f.png)
 
-https://drive.google.com/file/d/1izCIvB3Qac0zlEvRxsMDh1HDbREA2P3a/view?usp=sharing
+
+![Purpleteam](https://user-images.githubusercontent.com/34521827/129816037-2e9bb094-5997-4fe8-85f5-4a5b170054f9.png)
+
 
